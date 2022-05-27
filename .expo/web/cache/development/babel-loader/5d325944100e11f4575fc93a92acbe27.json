@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from \"./App/index\";\nexport default App;","map":{"version":3,"names":["App"],"sources":["E:/Documents/Downloads/insta-reels-master/insta-reels-master/App.js"],"sourcesContent":["import App from \"./App/index\";\n\nexport default App;\n"],"mappings":"AAAA,OAAOA,GAAP;AAEA,eAAeA,GAAf"},"metadata":{},"sourceType":"module"}
